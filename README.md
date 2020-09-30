@@ -1,6 +1,6 @@
 ## About me
 
-I'm a systems software engineer at <a href=https://joyent.com/>Joyent</a>. I've
+I'm a systems software engineer at <a href=https://nutanix.com/>Nutanix</a>. I've
 spent a lot of time doing virtualization things; observability is my bugbear.
 
 I have an <a href="https://movementarian.org/">occasionally updated

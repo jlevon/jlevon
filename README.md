@@ -8,4 +8,4 @@ blog</a>.
 
 Here's my <a href="https://www.linkedin.com/in/john-levon/">LinkedIn resumé</a>.
 
-I'm on <a href="https://twitter.com/johnlevon">Twitter</a> and <a href="https://fosstodon.org/@jlevon>Mastodon</a>.
+I'm on <a href="https://twitter.com/johnlevon">Twitter</a> and <a href="https://fosstodon.org/@jlevon">Mastodon</a>.
